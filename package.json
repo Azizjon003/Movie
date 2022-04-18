@@ -1,0 +1,20 @@
+{
+  "name": "kinolar",
+  "version": "1.0.0",
+  "description": "\"kinolar haqida \"",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Azizjon",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
+  },
+  "dependencies": {
+    "core-js": "^3.22.0",
+    "lodash": "^4.17.21",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
